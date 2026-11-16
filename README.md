@@ -35,7 +35,7 @@ This project implements a **24-byte binary protocol** that secures communication
 ## 🛡️ Verified Test Scenarios
 
 
-![Live Cryptographic Verification & Attack Mitigation] (demo.png)
+![Live Cryptographic Verification & Attack Mitigation](demo.png)
 
 The firmware includes a built-in test suite demonstrating resilience against common RF and network-level attacks:
 
